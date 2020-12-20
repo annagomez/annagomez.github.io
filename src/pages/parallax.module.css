@@ -30,6 +30,11 @@
   background-repeat: no-repeat;
   background-size: cover;
   image-orientation: from-image;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-position-x: 50%;
+  background-position-y: 50%;
   /*opacity: 0.80;*/
 }
 .acting_img {
