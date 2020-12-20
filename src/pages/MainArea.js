@@ -10,9 +10,7 @@ const features = [
         css: styles.acting_img,
         description: (
             <>
-                Parallax scrolling är en teknik som i datorgrafik, i tex spel, använts för att skapa en illusion av
-                djup i en tvådimensionell bild. Genom att låta bakgrundsbilder röra sig i annan hastighet än
-                förgrunden skapas en illusion av djup.
+                Jag är amatörskådespelare med erfarenhet av teaterföreställningar, filmskådespeleri i serier samt reklamfilm.
             </>
         ),
     },
@@ -41,14 +39,14 @@ const features = [
         css: styles.karate_img,
         description: (
             <>
-                <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi
+                Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi
                     orci dolor, condimentum in vehicula rhoncus, tincidunt a magna. Fusce imperdiet malesuada accumsan.
                     Duis blandit orci eu nibh vehicula elementum. Nam sem mauris, mollis et ullamcorper sit amet,
                     venenatis id urna. Nulla quis turpis sit amet justo adipiscing viverra vitae non dui. Nulla sodales
                     sodales sem a ornare. Nulla euismod dignissim erat, a aliquet dui hendrerit in. Cras vitae eros
                     pulvinar mi feugiat tincidunt et at nisl. Donec ac tortor vitae metus tempor lacinia. Phasellus
                     scelerisque pretium ligula consequat vehicula. Integer eros diam, mattis sed elementum vel, pretium
-                    ac orci. </p>
+                    ac orci.
             </>
         ),
     },
@@ -96,7 +94,6 @@ function MainArea() {
                          </div>
                      </div>
                      </>
-
              ))}
              </>
          )}
