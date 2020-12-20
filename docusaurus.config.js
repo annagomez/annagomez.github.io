@@ -2,7 +2,7 @@ module.exports = {
   title: 'AnnaGomez',
   tagline: 'Remember my name',
   url: 'https://annagomez.github.io/',
-  baseUrl: '/',
+  baseUrl: '/mypage/',
   favicon: '/img/anna.jpeg',
   organizationName: 'annagomez', // Usually your GitHub org/user name.
   projectName: 'mypage', // Usually your repo name.
