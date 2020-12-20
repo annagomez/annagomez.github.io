@@ -4,6 +4,10 @@
 @media only screen and (max-device-width: 1024px) {
   .acting_img, .work_img, .karate_img, .dj_img {
     background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    image-orientation: from-image;
   }
 }
 
