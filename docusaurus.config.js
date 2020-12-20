@@ -2,10 +2,10 @@ module.exports = {
   title: 'AnnaGomez',
   tagline: 'Remember my name',
   url: 'https://annagomez.github.io/',
-  baseUrl: '/mypage/',
+  baseUrl: '/',
   favicon: '/img/anna.jpeg',
   organizationName: 'annagomez', // Usually your GitHub org/user name.
-  projectName: 'mypage', // Usually your repo name.
+  projectName: 'annagomez.github.io', // Usually your repo name.
   themeConfig: {
     prism: {
       theme: require('prism-react-renderer/themes/github'),
