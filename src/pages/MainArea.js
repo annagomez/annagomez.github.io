@@ -21,14 +21,11 @@ const features = [
         css: styles.work_img,
         description: (
             <>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pharetra, ligula in ullamcorper
-                pulvinar, elit libero porta orci, nec tincidunt diam ante in leo. Nullam at lectus quam, vel
-                molestie massa. Nunc dapibus tincidunt odio eget pulvinar. Nunc tempor eros sit amet erat feugiat
-                sed lacinia dui interdum. Suspendisse eget consectetur lacus. Suspendisse faucibus est id augue
-                varius sodales. Suspendisse dignissim mi sed augue vestibulum et tincidunt enim pellentesque. Aenean
-                convallis pellentesque ornare. In hac habitasse platea dictumst. Praesent luctus lectus quis tortor
-                faucibus aliquam. Nulla facilisi. In nisl metus, vulputate ac consequat nec, pharetra nec
-                ligula.
+                I över ett decenium har jag jobbat med web- och tjänsteutveckling främst som backendutvecklare och scrum master.
+                Jag är sann ambassadör för agila arbetsmetoder.
+                Att jobba agilt handlar om mindset!
+                Just nu jobbar jag som produktägare för ett SVT Play-team.
+
             </>
         ),
     },
