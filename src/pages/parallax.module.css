@@ -1,20 +1,5 @@
 
 
-/* Turn off parallax scrolling for tablets and phones */
-@media only screen and (max-width: 1024px) {
-  .acting_img, .work_img, .karate_img, .dj_img {
-    background-attachment: scroll;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    image-orientation: from-image;
-    -o-background-size: cover;
-    -moz-background-size: cover;
-    -webkit-background-size: cover;
-    background-position-x: 50%;
-    background-position-y: 50%;
-  }
-}
 
 .parallax {
   height: 100%;
@@ -151,3 +136,18 @@
   background-color: rgba(0,0,0,1.00);
 }
 
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-width: 1024px) {
+  .acting_img, .work_img, .karate_img, .dj_img {
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    image-orientation: from-image;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+  }
+}
