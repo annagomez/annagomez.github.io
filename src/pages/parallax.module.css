@@ -23,8 +23,6 @@
   -o-background-size: cover;
   -moz-background-size: cover;
   -webkit-background-size: cover;
-  background-position-x: 50%;
-  background-position-y: 50%;
   /*opacity: 0.80;*/
 }
 .acting_img {
@@ -137,7 +135,7 @@
 }
 
 /* Turn off parallax scrolling for tablets and phones */
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-device-width: 1024px) {
   .acting_img, .work_img, .karate_img, .dj_img {
     background-attachment: scroll;
     background-position: center;
@@ -147,7 +145,5 @@
     -o-background-size: cover;
     -moz-background-size: cover;
     -webkit-background-size: cover;
-    background-position-x: 50%;
-    background-position-y: 50%;
   }
 }
