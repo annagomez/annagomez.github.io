@@ -21,9 +21,9 @@ const features = [
         css: styles.work_img,
         description: (
             <>
-                I över ett decenium har jag jobbat med web- och tjänsteutveckling främst som backendutvecklare och scrum master.
+                I över ett decenium har jag jobbat med web- och tjänsteutveckling främst som backendutvecklare och scrum master.<br/>
                 Jag är sann ambassadör för agila arbetsmetoder.
-                Att jobba agilt handlar om mindset!
+                Att jobba agilt handlar om mindset!<br/>
                 Just nu jobbar jag som produktägare för ett SVT Play-team.
 
             </>
@@ -36,14 +36,8 @@ const features = [
         css: styles.karate_img,
         description: (
             <>
-                Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi
-                    orci dolor, condimentum in vehicula rhoncus, tincidunt a magna. Fusce imperdiet malesuada accumsan.
-                    Duis blandit orci eu nibh vehicula elementum. Nam sem mauris, mollis et ullamcorper sit amet,
-                    venenatis id urna. Nulla quis turpis sit amet justo adipiscing viverra vitae non dui. Nulla sodales
-                    sodales sem a ornare. Nulla euismod dignissim erat, a aliquet dui hendrerit in. Cras vitae eros
-                    pulvinar mi feugiat tincidunt et at nisl. Donec ac tortor vitae metus tempor lacinia. Phasellus
-                    scelerisque pretium ligula consequat vehicula. Integer eros diam, mattis sed elementum vel, pretium
-                    ac orci.
+                Jag har svart bälte, 1 dan i Wado Ryu Karate-Do, och är domare hos Svenska karateförbundet.<br/>
+                Jag har tidigare instruerat nybörjarbarn och -vuxna i grunderna i karate.
             </>
         ),
     },
@@ -54,14 +48,8 @@ const features = [
         css: styles.dj_img,
         description: (
             <>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pharetra, ligula in ullamcorper
-                pulvinar, elit libero porta orci, nec tincidunt diam ante in leo. Nullam at lectus quam, vel
-                molestie massa. Nunc dapibus tincidunt odio eget pulvinar. Nunc tempor eros sit amet erat feugiat
-                sed lacinia dui interdum. Suspendisse eget consectetur lacus. Suspendisse faucibus est id augue
-                varius sodales. Suspendisse dignissim mi sed augue vestibulum et tincidunt enim pellentesque. Aenean
-                convallis pellentesque ornare. In hac habitasse platea dictumst. Praesent luctus lectus quis tortor
-                faucibus aliquam. Nulla facilisi. In nisl metus, vulputate ac consequat nec, pharetra nec
-                ligula.
+                I ca 8 år har jag DJ:at på privata fester, studentfester, företagsevent samt på bar och hotell i Stockholm.<br/>
+                Jag ingår i DJ-duon <i>TwoTimesAnna</i>.
             </>
         ),
     }

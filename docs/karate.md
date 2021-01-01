@@ -9,3 +9,6 @@ title: Karate
    
 * Svart bälte
     * 1 dan Wado Ryu
+    
+    
+Jag dömer både kumite och kata enligt WKF-regler.
