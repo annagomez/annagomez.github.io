@@ -94,6 +94,10 @@ html[data-theme='dark'] {
   justify-content: center;
 }
 
+.footer__links div:first-child .footer__items{
+  margin-left: 10%;
+}
+
 .copyright_style {
   font-style: italic;
   font-size: small;
@@ -172,5 +176,9 @@ html[data-theme='dark'] {
 
   .footer__links div:first-child {
     min-width: 100%;
+  }
+
+  .footer__links div:first-child .footer__items{
+    margin-left: 0;
   }
 }
