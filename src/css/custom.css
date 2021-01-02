@@ -89,9 +89,74 @@ html[data-theme='dark'] {
   color: var(--ifm-footer-link-color);
 }
 
+.footer__links div:not(:first-child) .footer__items {
+  display: flex;
+  justify-content: center;
+}
+
 .copyright_style {
   font-style: italic;
   font-size: small;
   color: var(--ifm-footer-title-color);
+}
+
+.footer-stagepool-link:before {
+  content: '';
+  width: 58px;
+  height: 58px;
+  display: flex;
+  background: url('/img/stagepool.jpg') no-repeat center;
+  background-size: cover;
+  margin: 20px;
+}
+
+.footer-linkedin-link:before {
+  content: '';
+  width: 58px;
+  height: 58px;
+  display: flex;
+  background: url('/img/linkedin_white.png') no-repeat center;
+  background-size: cover;
+  margin: 20px;
+}
+
+.footer-youtube-link:before {
+  content: '';
+  width: 58px;
+  height: 58px;
+  display: flex;
+  background: url('/img/youtube2_white.png') no-repeat center;
+  background-size: cover;
+  margin: 20px;
+}
+
+.footer-mail-link:before {
+  content: '';
+  width: 58px;
+  height: 58px;
+  display: flex;
+  background: url('/img/mail_white.png') no-repeat center;
+  background-size: cover;
+  margin: 20px;
+}
+
+.footer-facebook-link:before {
+  content: '';
+  width: 58px;
+  height: 58px;
+  display: flex;
+  background: url('/img/facebook_white.png') no-repeat center;
+  background-size: cover;
+  margin: 20px;
+}
+
+.footer-instagram-link:before {
+  content: '';
+  width: 58px;
+  height: 58px;
+  display: flex;
+  background: url('/img/instagram_white.png') no-repeat center;
+  background-size: cover;
+  margin: 20px;
 }
 

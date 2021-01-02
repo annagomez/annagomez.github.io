@@ -73,28 +73,37 @@ module.exports = {
          {
            items: [
              {
-               label: 'Stagepool',
                to: 'https://sv.stagepool.com/cv/annagomez/251801',
+               className: 'footer-stagepool-link',
+               'aria-label': 'stagepool'
              },
              {
-               label: 'LinkedIn',
                to: 'https://www.linkedin.com/in/djannagomez/',
+               className: 'footer-linkedin-link',
+               'aria-label': 'linkedin'
+             },
+             {
+               className: 'footer-youtube-link',
+               'aria-label': 'youtube'
              },
            ],
          },
          {
            items: [
              {
-               label: 'info@annagomez.se',
-               to: 'mailto:info@annagomez.se',
-             },
-             {
-               label: 'Facebook',
                to: 'https://www.facebook.com/annagomezfetisova/',
+               className: 'footer-facebook-link',
+               'aria-label': 'facebook'
              },
              {
-               label: 'Instagram',
                to: 'https://www.instagram.com/djannagomez/',
+               className: 'footer-instagram-link',
+               'aria-label': 'instagram'
+             },
+             {
+               to: 'mailto:info@annagomez.se',
+               className: 'footer-mail-link',
+               'aria-label': 'mail'
              },
            ],
          },
