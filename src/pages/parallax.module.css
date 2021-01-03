@@ -26,22 +26,22 @@
   /*opacity: 0.80;*/
 }
 .acting_img {
-  background-image: url('/img/anna_gw.png');
+  background-image: url('/img/start/anna_gw.png');
   min-height: 500px;
 }
 .work_img {
-  background-image: url('/img/anna_vinter.jpg');
+  background-image: url('/img/start/anna_vinter.jpg');
   min-height: 400px;
 }
 
 .karate_img {
-  background-image: url('/img/anna_karate.jpeg');
+  background-image: url('/img/start/anna_karate.jpeg');
   min-height: 500px;
   image-orientation: from-image;
 }
 
 .dj_img {
-  background-image: url('/img/djannagomez.jpg');
+  background-image: url('/img/start/djannagomez.jpg');
   min-height: 400px;
 }
 .headerbox {

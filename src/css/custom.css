@@ -109,7 +109,7 @@ html[data-theme='dark'] {
   width: 58px;
   height: 58px;
   display: flex;
-  background: url('/img/stagepool_white.png') no-repeat center;
+  background: url('/img/social/stagepool_white.png') no-repeat center;
   background-size: cover;
   margin: 20px;
 }
@@ -119,7 +119,7 @@ html[data-theme='dark'] {
   width: 58px;
   height: 58px;
   display: flex;
-  background: url('/img/linkedin_white.png') no-repeat center;
+  background: url('/img/social/linkedin_white.png') no-repeat center;
   background-size: cover;
   margin: 20px;
 }
@@ -129,7 +129,7 @@ html[data-theme='dark'] {
   width: 58px;
   height: 58px;
   display: flex;
-  background: url('/img/youtube2_white.png') no-repeat center;
+  background: url('/img/social/youtube2_white.png') no-repeat center;
   background-size: cover;
   margin: 20px;
 }
@@ -139,7 +139,7 @@ html[data-theme='dark'] {
   width: 58px;
   height: 58px;
   display: flex;
-  background: url('/img/mail_white.png') no-repeat center;
+  background: url('/img/social/mail_white.png') no-repeat center;
   background-size: cover;
   margin: 20px;
 }
@@ -149,7 +149,7 @@ html[data-theme='dark'] {
   width: 58px;
   height: 58px;
   display: flex;
-  background: url('/img/facebook_white.png') no-repeat center;
+  background: url('/img/social/facebook_white.png') no-repeat center;
   background-size: cover;
   margin: 20px;
 }
@@ -159,7 +159,7 @@ html[data-theme='dark'] {
   width: 58px;
   height: 58px;
   display: flex;
-  background: url('/img/instagram_white.png') no-repeat center;
+  background: url('/img/social/instagram_white.png') no-repeat center;
   background-size: cover;
   margin: 20px;
 }
