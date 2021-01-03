@@ -109,7 +109,7 @@ html[data-theme='dark'] {
   width: 58px;
   height: 58px;
   display: flex;
-  background: url('/img/stagepool.jpg') no-repeat center;
+  background: url('/img/stagepool_white.png') no-repeat center;
   background-size: cover;
   margin: 20px;
 }

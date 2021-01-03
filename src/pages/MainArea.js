@@ -49,7 +49,7 @@ const features = [
         description: (
             <>
                 I ca 8 år har jag DJ:at på privata fester, studentfester, företagsevent samt på bar och hotell i Stockholm.<br/>
-                Jag ingår i DJ-duon <i>TwoTimesAnna</i>.
+                Jag ingår i DJ-duon TwoTimesAnna.
             </>
         ),
     }
