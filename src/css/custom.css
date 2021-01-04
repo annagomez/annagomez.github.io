@@ -29,6 +29,7 @@
   --ifm-color-danger: #fb565b;
 
   --ifm-heading-margin-bottom: 0;
+  --ifm-font-family-base: 'Montserrat', sans-serif;
 }
 
 /* Hämtar font från https://fonts.google.com */
@@ -181,4 +182,14 @@ html[data-theme='dark'] {
   .footer__links div:first-child .footer__items{
     margin-left: 0;
   }
+}
+
+.videos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.videobox {
+  margin-bottom: 20px;
 }

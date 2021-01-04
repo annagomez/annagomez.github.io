@@ -7,21 +7,35 @@ title: Skådespeleri
 * Filmskådespeleri
 * Improvisationsteater
 
-Mitt fullständiga skådespelar-CV finner ni [här](https://sv.stagepool.com/cv/annagomez/251801).
+Mer komplett information om min skådespelarerfarenhet går att htta på [Stagepool](https://sv.stagepool.com/cv/annagomez/251801).
 
 ## Videopresentationer
 
+<div class="videos">
+
+<div class="videobox">
+
 ### Från 28 juli 2020
+
 <video width="320" height="240" controls>
   <source src='/video/annagomez_pres-20200728.mp4' type='video/mp4'/>
 Your browser does not support the video tag.
 </video>
 
+</div>
+
+<div class="videobox">
+
 ### Från 28 januari 2020
+
 <video width="320" height="240" controls>
   <source src='/video/annagomez_pres-20200128.mp4' type='video/mp4'/>
 Your browser does not support the video tag.
 </video>
+
+</div>
+
+</div>
 
 ## Utbildning
 
