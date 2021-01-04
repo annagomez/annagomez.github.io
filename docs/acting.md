@@ -3,11 +3,14 @@ id: acting
 title: Skådespeleri
 ---
 
+<img src="/img/AnnaGomez.jpg" alt="anna" width="200px" style={{'float':'right'}} />
+
 * Teater
 * Filmskådespeleri
 * Improvisationsteater
 
-Mer komplett information om min skådespelarerfarenhet går att htta på [Stagepool](https://sv.stagepool.com/cv/annagomez/251801).
+
+Mer komplett information om min skådespelarerfarenhet går att hitta på [Stagepool](https://sv.stagepool.com/cv/annagomez/251801).
 
 ## Videopresentationer
 
@@ -36,6 +39,8 @@ Your browser does not support the video tag.
 </div>
 
 </div>
+
+## Bilder
 
 ## Utbildning
 
