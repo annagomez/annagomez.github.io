@@ -42,7 +42,7 @@ Your browser does not support the video tag.
 
 <img src="/img/acting/headshots/AnnaGomez.jpeg" alt="anna" height="300px" style={{}} />
 <img src="/img/acting/headshots/IMG_4971.JPG" alt="anna" height="300px" style={{}} />
-<img src="/img/acting/headshots/IMG_5596.JPG" alt="anna" height="300px" style={{}} />
+<img src="/img/acting/headshots/IMG_5596.jpg" alt="anna" height="300px" style={{}} />
 
 <img src="/img/acting/headshots/Anna Gomez-halvkropp.jpg" alt="anna" height="350px" style={{}} />
 <img src="/img/acting/headshots/Anna Gomez-halvkropp2.jpg" alt="anna" height="350px" style={{}} />
