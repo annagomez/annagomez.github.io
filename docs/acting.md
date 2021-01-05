@@ -20,7 +20,7 @@ Mer komplett information om min skådespelarerfarenhet går att hitta på [Stage
 
 ### Från 28 juli 2020
 
-<video width="320" height="240" controls preload="metadata">
+<video width="320" height="240" controls poster="/img/thumnails/annagomez_pres-20200728.png">
   <source src='/video/annagomez_pres-20200728.mp4' type='video/mp4'/>
 Your browser does not support the video tag.
 </video>
@@ -31,7 +31,7 @@ Your browser does not support the video tag.
 
 ### Från 28 januari 2020
 
-<video width="320" height="240" controls preload="metadata">
+<video width="320" height="240" controls preload="metadata" poster="/img/thumnails/annagomez_pres-20200128.png">
   <source src='/video/annagomez_pres-20200128.mp4' type='video/mp4'/>
 Your browser does not support the video tag.
 </video>
