@@ -3,6 +3,8 @@ id: work
 title: Agilt & Utveckling
 ---
 
+<img src="/img/work/AnnaGomez.jpg" alt="anna" width="200px" style={{'float':'right'}} />
+
 * Agil arbetsmetodik
     * Scrum master
     * Facilitering av workshops
