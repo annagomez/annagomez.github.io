@@ -3,8 +3,6 @@ id: acting
 title: Skådespeleri
 ---
 
-<img src="/img/AnnaGomez.jpg" alt="anna" width="200px" style={{'float':'right'}} />
-
 * Teater
 * Filmskådespeleri
 * Improvisationsteater
@@ -31,7 +29,7 @@ Your browser does not support the video tag.
 
 ### Från 28 januari 2020
 
-<video width="320" height="240" controls preload="metadata" poster="/img/thumnails/annagomez_pres-20200128.png">
+<video width="320" height="240" controls poster="/img/thumnails/annagomez_pres-20200128.png">
   <source src='/video/annagomez_pres-20200128.mp4' type='video/mp4'/>
 Your browser does not support the video tag.
 </video>
@@ -41,6 +39,32 @@ Your browser does not support the video tag.
 </div>
 
 ## Bilder
+
+<img src="/img/acting/headshots/AnnaGomez.jpeg" alt="anna" height="300px" style={{}} />
+<img src="/img/acting/headshots/IMG_4971.JPG" alt="anna" height="300px" style={{}} />
+<img src="/img/acting/headshots/IMG_5596.JPG" alt="anna" height="300px" style={{}} />
+
+<img src="/img/acting/headshots/Anna Gomez-halvkropp.jpg" alt="anna" height="350px" style={{}} />
+<img src="/img/acting/headshots/Anna Gomez-halvkropp2.jpg" alt="anna" height="350px" style={{}} />
+
+<img src="/img/acting/headshots/IMG_5598.jpg" alt="anna" height="350px" style={{}} />
+
+## Erfarenhet
+
+### Jobbigt
+
+![jobbigt](/img/acting/jobs/jobbigt/Jobbigt_Nyårsbråk_SVTPlay.png)
+![jobbigt](/img/acting/jobs/jobbigt/jobbigt_smink.png)
+
+### Reklam
+
+<img src="/img/acting/jobs/telia/GLYM3957.JPG" alt="telia" height="300px" style={{}} />
+<img src="/img/acting/jobs/telia/IMG_4453.JPG" alt="telia" height="300px" style={{}} />
+<img src="/img/acting/jobs/telia/IMG_4303.JPG" alt="telia" height="300px" style={{}} />
+
+### Teateruppträdande
+    * Manus
+    * Improvisation
 
 ## Utbildning
 
@@ -67,13 +91,7 @@ Your browser does not support the video tag.
 ### Skådisar Ensamble/Vladimir Dikanski
     * Actionkurs (2016)
 
-## Erfarenhet
 
-* Jobbigt
-* Reklam
-* Teateruppträdande
-    * Manus
-    * Improvisation
 
 ## Casting-sidor
 
