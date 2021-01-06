@@ -3,12 +3,15 @@ id: work
 title: Agilt & Utveckling
 ---
 
-<img src="/img/work/AnnaGomez.jpg" alt="anna" width="200px" style={{'float':'right'}} />
+<div style={{'float':'right'}}>
+<img src="/img/work/AnnaGomez.jpg" alt="anna" width="200px"  />
+</div>
 
 * Agil arbetsmetodik
     * Scrum master
     * Facilitering av workshops
     
+
 * Web- och tjänsteutveckling
     * Främst backend (Java, NodeJS, lite Kotlin)
     * Viss frontend (CSS, Javascript, React)
