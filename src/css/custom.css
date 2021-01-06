@@ -193,3 +193,7 @@ html[data-theme='dark'] {
 .videobox {
   margin-bottom: 20px;
 }
+
+.markdown li {
+  overflow-wrap: break-word;
+}
