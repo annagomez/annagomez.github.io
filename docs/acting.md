@@ -103,7 +103,7 @@ Säsong 1 (2018)
 **Telia (2020)**
 
 <div style={{'text-align':'center'}}>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7R_PbT13Vb4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7R_PbT13Vb4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style={{'max-width':'100%'}}></iframe>
 </div>
 
 <div>
