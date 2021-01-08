@@ -55,16 +55,14 @@ _Fler exempel på erfarenhet och jobb finns samlat [här](https://sv.stagepool.c
 
 ### TV-serie
 
-**[Zombie 3](https://www.svtplay.se/zombie)**
+**[Zombie 3](https://www.svtplay.se/zombie)** (2020)
 
 ![Zombie3](/img/acting/jobs/zombie3/zombie3.jpg)
 
 **[Jobbigt](https://www.svtplay.se/jobbigt)**
-
 <div class="doc-wrap">
 
 <div>
-
 Säsong 8 (2020)
 * Avsnitt 53: [Nadia - Det blir F-varning](https://www.svtplay.se/video/26914053/jobbigt/jobbigt-sasong-8-nadia-det-blir-f-varning)
 * Avsnitt 50: [Nadia - Du skolkar Nadia!](https://www.svtplay.se/video/26751585/jobbigt/jobbigt-sasong-8-avsnitt-50)
@@ -104,7 +102,7 @@ Säsong 1 (2018)
 
 ### Reklam 
 
-**Telia (2020)**
+**Telia** (2020)
 
 <div style={{'text-align':'center'}}>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7R_PbT13Vb4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style={{'max-width':'100%'}}></iframe>
