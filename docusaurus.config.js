@@ -1,7 +1,7 @@
 module.exports = {
   title: 'AnnaGomez',
   tagline: 'Remember my name',
-  url: 'https://annagomez.github.io/',
+  url: 'https://annagomez.se/',
   baseUrl: '/',
   favicon: '/img/anna.jpeg',
   organizationName: 'annagomez', // Usually your GitHub org/user name.
