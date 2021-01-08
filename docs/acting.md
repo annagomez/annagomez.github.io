@@ -55,6 +55,10 @@ _Fler exempel på erfarenhet och jobb finns samlat [här](https://sv.stagepool.c
 
 ### TV-serie
 
+**[Zombie 3](https://www.svtplay.se/zombie)**
+
+![Zombie3](/img/acting/jobs/zombie3/zombie3.jpg)
+
 **[Jobbigt](https://www.svtplay.se/jobbigt)**
 
 <div class="doc-wrap">
