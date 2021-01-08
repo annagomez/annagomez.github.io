@@ -44,8 +44,8 @@ Your browser does not support the video tag.
 <img src="/img/acting/headshots/IMG_4971.JPG" alt="anna" height="300px" style={{}} />
 <img src="/img/acting/headshots/IMG_5596.jpg" alt="anna" height="300px" style={{}} />
 
-<img src="/img/acting/headshots/Anna Gomez-halvkropp.jpg" alt="anna" height="350px" style={{}} />
-<img src="/img/acting/headshots/Anna Gomez-halvkropp2.jpg" alt="anna" height="350px" style={{}} />
+<img src="/img/acting/headshots/AnnaGomez-halvkropp.jpg" alt="anna" height="350px" style={{}} />
+<img src="/img/acting/headshots/AnnaGomez-halvkropp2.jpg" alt="anna" height="350px" style={{}} />
 
 <img src="/img/acting/headshots/IMG_5598.jpg" alt="anna" height="350px" style={{}} />
 
@@ -53,7 +53,7 @@ Your browser does not support the video tag.
 
 ### Jobbigt
 
-![jobbigt](/img/acting/jobs/jobbigt/Jobbigt_Nyårsbråk_SVTPlay.png)
+![jobbigt](/img/acting/jobs/jobbigt/Jobbigt_newyear2018-2019_SVTPlay.png)
 ![jobbigt](/img/acting/jobs/jobbigt/jobbigt_smink.png)
 
 ### Reklam
