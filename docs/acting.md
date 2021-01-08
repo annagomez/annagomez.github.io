@@ -84,7 +84,7 @@ Your browser does not support the video tag.
     * Improvised Drama (2018)
     * Narrative Longform (2019)
     * Get out of your head (2019)
-### [Stockholms improvisations teater](http://www.impro.a.se/)
+### [Stockholms improvisationsteater](http://www.impro.a.se/)
     * English production class (2020-)
 ### [Calle Flygare](https://calleflygare.se/)
     * Att skådespela är att vilja (2017)
