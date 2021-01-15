@@ -27,7 +27,7 @@ title: Agilt & Utveckling
 <br/>
 <i>SVTi-dagen 11 dec 2019</i>
 
-![SVTi+dagen december 2019](/img/work/SVTIdagenDec2019.jpg)
+![SVTi+dagen december 2019](/img/work/SVTidagenDec2019.jpg)
 
 
 <i>KTH Medietekniks branschdag 4 feb 2020</i>
