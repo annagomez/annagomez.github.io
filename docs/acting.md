@@ -151,7 +151,7 @@ _Foto: Erik Garsten_
 
 <br/>
 
-**Teater: Livet och människorna** (janari 2020)<br/>
+**Teater: Livet och människorna** (januari 2020)<br/>
 Pedagog/regi: Susanne Sjöquist
 
 ![Livet och människorna](/img/acting/teater/Livet_och_manniskorna1_25jan2020.JPG)
