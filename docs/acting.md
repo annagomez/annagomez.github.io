@@ -116,7 +116,7 @@ Säsong 1 (2018)
 <div class="videobox">
 
 <b>15 sek</b><br/>
-<video width="320" height="240" controls>
+<video width="320" height="240" controls poster="/img/thumnails/telia_poster.png">
   <source src='/video/Telia_ITsomTjanst_15s.mp4' type='video/mp4'/>
 Your browser does not support the video tag.
 </video>
@@ -138,6 +138,15 @@ Your browser does not support the video tag.
 <img src="/img/acting/jobs/telia/IMG_4453.JPG" alt="telia" height="293px" style={{'margin':'5px'}} />
 <img src="/img/acting/jobs/telia/IMG_4303.JPG" alt="telia" height="293px" style={{'margin':'5px'}} />
 </div>
+
+<br/>
+
+**Arla Familjefavoriter** (2020) 
+
+<video width="320" height="240" controls poster="/img/thumnails/arla_poster.png">
+  <source src='/video/ARLA.mp4' type='video/mp4'/>
+Your browser does not support the video tag.
+</video>
 
 ### Teateruppträdande
 
